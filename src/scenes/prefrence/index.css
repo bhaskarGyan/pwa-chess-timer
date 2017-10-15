@@ -1,0 +1,11 @@
+.prefrence{
+    display: flex;
+    height: 100vh;
+    background: #f5fffa;
+    flex-direction: column;
+    padding: 30px;
+}
+.prefrence__form{
+    display: flex;
+    flex-direction: column;
+}

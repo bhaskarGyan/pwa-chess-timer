@@ -1,0 +1,21 @@
+{
+  "name": "pwa-chess-timer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.16",
+    "react": "^16.0.0",
+    "react-autosuggest": "^9.3.2",
+    "react-dom": "^16.0.0",
+    "react-form-validator-core": "^0.1.1",
+    "react-material-ui-form-validator": "^2.0.0-beta.2",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,10 @@
+.settings{
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+}
+.settings__list{
+    padding: 20px;
+    cursor: pointer;
+
+}

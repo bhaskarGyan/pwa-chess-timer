@@ -1,0 +1,11 @@
+.wrapper{
+    box-sizing: border-box;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+}
+.settings{
+    height: 10%;
+}
